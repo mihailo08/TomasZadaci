@@ -1,0 +1,15 @@
+C:\Users\Ucenik-IK4-19\Documents\PKG-Pogadjanje-broja-main\PKG-Pogadjanje-broja-main\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Ucenik-IK4-19\Documents\PKG-Pogadjanje-broja-main\PKG-Pogadjanje-broja-main\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Ucenik-IK4-19\Documents\PKG-Pogadjanje-broja-main\PKG-Pogadjanje-broja-main\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Ucenik-IK4-19\Documents\PKG-Pogadjanje-broja-main\PKG-Pogadjanje-broja-main\WindowsFormsApp4\bin\Debug\mscorlib.dll
+C:\Users\Ucenik-IK4-19\Documents\PKG-Pogadjanje-broja-main\PKG-Pogadjanje-broja-main\WindowsFormsApp4\bin\Debug\normidna.nlp
+C:\Users\Ucenik-IK4-19\Documents\PKG-Pogadjanje-broja-main\PKG-Pogadjanje-broja-main\WindowsFormsApp4\bin\Debug\normnfc.nlp
+C:\Users\Ucenik-IK4-19\Documents\PKG-Pogadjanje-broja-main\PKG-Pogadjanje-broja-main\WindowsFormsApp4\bin\Debug\normnfd.nlp
+C:\Users\Ucenik-IK4-19\Documents\PKG-Pogadjanje-broja-main\PKG-Pogadjanje-broja-main\WindowsFormsApp4\bin\Debug\normnfkc.nlp
+C:\Users\Ucenik-IK4-19\Documents\PKG-Pogadjanje-broja-main\PKG-Pogadjanje-broja-main\WindowsFormsApp4\bin\Debug\normnfkd.nlp
+C:\Users\Ucenik-IK4-19\Documents\PKG-Pogadjanje-broja-main\PKG-Pogadjanje-broja-main\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\Ucenik-IK4-19\Documents\PKG-Pogadjanje-broja-main\PKG-Pogadjanje-broja-main\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Ucenik-IK4-19\Documents\PKG-Pogadjanje-broja-main\PKG-Pogadjanje-broja-main\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Ucenik-IK4-19\Documents\PKG-Pogadjanje-broja-main\PKG-Pogadjanje-broja-main\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.Cache
+C:\Users\Ucenik-IK4-19\Documents\PKG-Pogadjanje-broja-main\PKG-Pogadjanje-broja-main\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Ucenik-IK4-19\Documents\PKG-Pogadjanje-broja-main\PKG-Pogadjanje-broja-main\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
